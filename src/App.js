@@ -1,3 +1,7 @@
+/* 1/2/21 React app to diaplay state COVID-19 total positive cases in descending order
+ @author: Hannah Babe
+*/
+
 import './App.css';
 import React, {useState, useEffect} from "react";
 
